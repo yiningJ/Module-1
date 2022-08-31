@@ -22,15 +22,15 @@ I found it very manual to create the outcomes based on goals table, because each
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-Firstly, we can conclude that May is the best month of the year to launch campaign in theatre but be prepared for the fierce competition.
-Secondly, usually there are more successful campaigns in theatres compared to failed ones except in December, which could be attributed to that people go for vacations in holiday.  
+### What are two conclusions you can draw about the Outcomes based on Launch Date?
+- Firstly, we can conclude that May is the best month of the year to launch campaign in theatre but be prepared for the fierce competition.
+- Secondly, usually there are more successful campaigns in theatres compared to failed ones except in December, which could be attributed to that people go for vacations in holiday.  
 
-- What can you conclude about the Outcomes based on Goals?
+### What can you conclude about the Outcomes based on Goals?
 I recommend to set the goal below 19999, and above 10000 as Louise planned.
 
-- What are some limitations of this dataset?
+### What are some limitations of this dataset?
 This dataset doesn't include all the costs that each campaign has.
 
-- What are some other possible tables and/or graphs that we could create?
+### What are some other possible tables and/or graphs that we could create?
 We could create a chart "Play outcomes by launch date" and "Outcomes based on play length".
